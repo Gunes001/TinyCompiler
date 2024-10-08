@@ -1,0 +1,1 @@
+This is a Tiny Compile in Swift to show the basic principle of compiler technology.
