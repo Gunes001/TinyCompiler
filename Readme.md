@@ -21,3 +21,6 @@ git push origin main
 ```
 
 Oct 8, Bug Fixed.
+
+
+After while I got another idea to change the code.
