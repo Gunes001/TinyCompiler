@@ -20,3 +20,4 @@ git commit -m "更新了 README 文件"
 git push origin main
 ```
 
+Oct 8, Bug Fixed.
